@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Lucikelly 
 
-- 🔭 A procura do primeiro estágio com dev
+- 🔭 A procura do primeiro estágio como dev
 - 🌱 Atualmente cursando ciência da computação
 - 👩‍💻 Aprendendo algo sobre front-end
 - 💙 Estudando desenvolvimento de games
