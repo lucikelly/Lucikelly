@@ -1,31 +1,42 @@
-## Olá! Eu sou a Lucikelly 
+## Olá! Eu sou a Lucikelly 👋
 
-- 🔭 A procura do primeiro estágio como dev
-- 🌱 Atualmente cursando ciência da computação
-- 👩‍💻 Aprendendo algo sobre front-end
-- 💙 Estudando desenvolvimento de games
+Engenheira de Software apaixonada por construir soluções escaláveis, seguras e de alta disponibilidade. Tenho forte atuação em **Backend, DevOps e Arquitetura de Sistemas**, com experiência no desenvolvimento de plataformas SaaS multi-tenant.
 
-  
-<div align = "left">
-<img height = "200em"  src="https://github-readme-stats.vercel.app/api?username=lucikelly&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-<img height = "200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucikelly&show_icons=true&theme=bear&count_private=true"/>
+- 🔭 Atualmente trabalhando como **Software Engineer (Backend | DevOps | Platform)**.
+- 🌱 Formada em Ciência da Computação e cursando **MBA em Segurança da Informação** e **Engenharia de Software**.
+- 🏗️ Focada no desenvolvimento com **TypeScript, NestJS, PHP e Laravel**.
+- ⚙️ Gerenciando infraestrutura, automações CI/CD e observabilidade com **Docker, GitLab CI, Linux, Prometheus e Grafana**.
+
+## Tecnologias e Ferramentas 🚀
+
+### 💻 Backend & Front-end
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;&nbsp;
 </div>
 
-
-## Tecnologias que eu uso no meu dia
-
+### 🐳 DevOps, Infra & Dados
 <div style="display: inline_block">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp&nbsp&nbsp;     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="60" height="60"/>&nbsp&nbsp&nbsp;
-</div><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" alt="GitLab" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>&nbsp;&nbsp;
+</div>
 
-          
+<br/>
 
+## Contato  📫
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucikellysantos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
